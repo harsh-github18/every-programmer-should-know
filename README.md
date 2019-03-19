@@ -1,12 +1,11 @@
 ----
 
-# Map of Comuter Science
+# Map of Comuter Science (Acc to me)
 A collection of (mostly) technical things every software developer should know.  
+ :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ----
 
-
-- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
 ## Topics You should learn and sources :
 
@@ -24,15 +23,11 @@ A collection of (mostly) technical things every software developer should know.
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 - [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
 
+
 ### 2. Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-
-
-
-## Resources
-
 
 
 
