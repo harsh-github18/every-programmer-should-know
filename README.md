@@ -4,6 +4,17 @@
 A collection of (mostly) technical things every software developer should know.  
 
 ----
+## Resources
+
+* [Algorithms - Learneroo](https://www.learneroo.com/subjects/8)
+* [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+* [Algorithms List - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+* [Intro to Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+* [Popular Data Structures and Algorithms - Codechef](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+* [Stanford-ACM-Codes](https://github.com/jaehyunp/stanfordacm) - A list of codes written by previous Stanford ACM team members and coaches.
+* [Data Structures and Algorithms](https://hackr.io/tutorials/learn-data-structures-algorithms) - A user ranked list of online tutorials to learn Data Structures and Algorithms online.
+
+
 
 ### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
