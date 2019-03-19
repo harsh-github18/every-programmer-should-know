@@ -1,40 +1,42 @@
 ----
 
-# Every Programmer Should Know :thinking:
+# Map of Comuter Science
 A collection of (mostly) technical things every software developer should know.  
 
 ----
-## Resources
-
-* [Algorithms - Learneroo](https://www.learneroo.com/subjects/8)
-* [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
-* [Algorithms List - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-* [Intro to Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
-* [Popular Data Structures and Algorithms - Codechef](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
-* [Stanford-ACM-Codes](https://github.com/jaehyunp/stanfordacm) - A list of codes written by previous Stanford ACM team members and coaches.
-* [Data Structures and Algorithms](https://hackr.io/tutorials/learn-data-structures-algorithms) - A user ranked list of online tutorials to learn Data Structures and Algorithms online.
 
 
-
-### Introduction
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-- :movie_camera: [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci)
 
-### Falsehoods
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
-  💊 Curated list of falsehoods programmers believe in.    
-  Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
+## Topics You should learn and sources :
 
-### Algorithms
+### 1. Data Structures
+
+- [Algorithms - Learneroo](https://www.learneroo.com/subjects/8)
+- [Awesome-Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Algorithms List - GeeksforGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [Intro to Algorithms - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Popular Data Structures and Algorithms - Codechef](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+- [Stanford-ACM-Codes](https://github.com/jaehyunp/stanfordacm) - A list of codes written by previous Stanford ACM team members and coaches.
+- [Data Structures and Algorithms](https://hackr.io/tutorials/learn-data-structures-algorithms) - A user ranked list of online tutorials to learn Data Structures and Algorithms online.
+- [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+- [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
+- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+### 2. Algorithms
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-### Data Structures
-- :movie_camera: [UC Berkeley, Data Structures Course](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
-- [Foundations of Data Structures - EDX](https://www.edx.org/course/foundations-data-structures-iitbombayx-cs213-1x-0#!)
-- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Mathematics for Computer Science - Eric Lehman](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+
+## Resources
+
+
+
+
+
 
 ### Numbers
 - :book: [How to Count](https://www.goodreads.com/book/show/12093869-how-to-count)
